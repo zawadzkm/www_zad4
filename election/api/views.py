@@ -1,9 +1,12 @@
+from channels import Group
+from django.forms import model_to_dict
 from django.http import HttpResponse
 from django.views.decorators.csrf import csrf_exempt
 from rest_framework import permissions, filters
 from rest_framework.authentication import TokenAuthentication
 from rest_framework.generics import RetrieveAPIView, ListAPIView, RetrieveUpdateAPIView
 from rest_framework.pagination import PageNumberPagination
+from rest_framework.renderers import JSONRenderer
 from rest_framework.response import Response
 from rest_framework_jwt.authentication import JSONWebTokenAuthentication
 
@@ -63,12 +66,20 @@ class AuthenticatedWrite(permissions.BasePermission):
         return request.user.is_authenticated()
 
 class VoteDetailAPIView(RetrieveUpdateAPIView):
-    authentication_classes = [JSONWebTokenAuthentication]
-    permission_classes = [AuthenticatedWrite]
+    # authentication_classes = [JSONWebTokenAuthentication]
+    # permission_classes = [AuthenticatedWrite]
 
     queryset = Vote.objects.all()
     serializer_class = VoteSerializer
     lookup_field = 'id'
+
+    def perform_update(self, serializer):
+        vote = serializer.save()
+
+        Group('country').send({'text': str(vote.circuit.commune.district.voivodeship.country.name)})
+        Group('voivodeship').send({'text': str(vote.circuit.commune.district.voivodeship.no)})
+        Group('district').send({'text': str(vote.circuit.commune.district.no)})
+        Group('commune').send({'text': str(vote.circuit.commune.code)})
 
 class ResultsSetPagination(PageNumberPagination):
 

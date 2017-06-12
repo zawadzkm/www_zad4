@@ -2,191 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69785baa-bdf6-4fd1-9901-72b80b75e1b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/200670f9-b191-4460-8daa-5b67f3ad9b9b/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/200670f9-b191-4460-8daa-5b67f3ad9b9b/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/200670f9-b191-4460-8daa-5b67f3ad9b9b/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/200670f9-b191-4460-8daa-5b67f3ad9b9b/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/200670f9-b191-4460-8daa-5b67f3ad9b9b/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/200670f9-b191-4460-8daa-5b67f3ad9b9b/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/200670f9-b191-4460-8daa-5b67f3ad9b9b/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular/angular.min.js.gzip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/200670f9-b191-4460-8daa-5b67f3ad9b9b.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/200670f9-b191-4460-8daa-5b67f3ad9b9b/storage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/www_zad4.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/ad-token-auth/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/ad-token-auth/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/ad-token-auth/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/ad-token-auth/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/ad-token-auth/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/ad-token-auth/src/ad-token-auth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-bootstrap/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-bootstrap/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-bootstrap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-bootstrap/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-bootstrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-bootstrap/ui-bootstrap-csp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-bootstrap/ui-bootstrap-tpls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-bootstrap/ui-bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-bootstrap/ui-bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/TRANSITION.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/browserify/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/browserify/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/browserify/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/r.js/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/r.js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/r.js/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/r.js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/r.js/require.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/webpack/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/webpack/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/webpack/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/webpack/webpack.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/webpack_es6/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/webpack_es6/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/webpack_es6/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/webpack_es6/webpack.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/webpack_es6_2/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/webpack_es6_2/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/webpack_es6_2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/build_examples/webpack_es6_2/webpack.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/circle.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/rollup.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-cache/scripts/postbuild.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/ng-google-chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/ng-google-chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/FormatManager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/GoogleChartController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/agcBeforeDraw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/agcOnClick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/agcOnError.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/agcOnMouseout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/agcOnMouseover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/agcOnReady.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/agcOnSelect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/googleChart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/googleChartApiConfig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/googleChartApiPromise.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/googleChartService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/googleJsapiUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/src/googlechart.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/test/google.mock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/test/googleChartApiPromise.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/test/googleChartService.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-google-chart/test/googleJsapiUrl.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-jwt/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-jwt/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-jwt/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-jwt/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-jwt/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-jwt/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-jwt/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-jwt/karma-dist-concatenated.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-jwt/karma-dist-minified.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-jwt/karma-src.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-jwt/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-resource/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-resource/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-resource/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-resource/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-resource/angular-resource.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-resource/angular-resource.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-resource/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-resource/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-resource/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-route/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-route/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-route/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-route/angular-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-route/angular-route.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-route/angular-route.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-route/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-route/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-route/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular/angular-csp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/data.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/test_data.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/api/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/api/serializers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/api/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/api/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/app/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/migrations/0002_auto_20170501_1709.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/migrations/0003_auto_20170501_1711.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/load.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_commune.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_country.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_district.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_voivodeship.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www_zad4/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www_zad4/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www_zad4/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www_zad4/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-websocket/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-websocket/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-websocket/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-websocket/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/angular-websocket/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/ws/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/ws/consumer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/election/ws/routing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/election/api/views.py" afterPath="$PROJECT_DIR$/election/api/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/election/app/app.js" afterPath="$PROJECT_DIR$/election/app/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/election/app/index.html" afterPath="$PROJECT_DIR$/election/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www_zad4/settings.py" afterPath="$PROJECT_DIR$/www_zad4/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -242,8 +71,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/election/api/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="61" lean-forward="false" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+            <state relative-caret-position="121">
+              <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -252,45 +81,30 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/election/api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="85">
+              <caret line="78" column="23" lean-forward="false" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conf.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/conf.js">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/election/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="-40">
+              <caret line="259" column="0" lean-forward="false" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!block;n#processAreaData#0" expanded="false" />
+                <element signature="e#2641#4144#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_search.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/test_search.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_country.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/test_country.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_login.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/test_login.js">
+      <file leaf-file-name="consumer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/election/ws/consumer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
               <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
@@ -299,12 +113,27 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="routing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/election/ws/routing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/election/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="-17">
+              <caret line="26" column="75" lean-forward="false" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
+              <folding>
+                <element signature="n#script#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -315,8 +144,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Python Script" />
         <option value="JavaScript File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -348,6 +177,7 @@
       <find>login</find>
       <find>wylogu</find>
       <find>update</find>
+      <find>coun</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -373,9 +203,7 @@
         <option value="$PROJECT_DIR$/user.py" />
         <option value="$PROJECT_DIR$/election/app/index2.html" />
         <option value="$PROJECT_DIR$/election/urls.py" />
-        <option value="$PROJECT_DIR$/www_zad4/settings.py" />
         <option value="$PROJECT_DIR$/election/api/urls.py" />
-        <option value="$PROJECT_DIR$/election/app/app.js" />
         <option value="$PROJECT_DIR$/election/api/serializers.py" />
         <option value="$PROJECT_DIR$/election/models.py" />
         <option value="$PROJECT_DIR$/tests/spec.js" />
@@ -385,13 +213,17 @@
         <option value="$PROJECT_DIR$/tests/test_country.js" />
         <option value="$PROJECT_DIR$/tests/test_district.js" />
         <option value="$PROJECT_DIR$/tests/test_commune.js" />
-        <option value="$PROJECT_DIR$/election/app/index.html" />
         <option value="$PROJECT_DIR$/tests/test_update.js" />
         <option value="$PROJECT_DIR$/tests/test_login.js" />
-        <option value="$PROJECT_DIR$/election/api/views.py" />
         <option value="$PROJECT_DIR$/tests/test_csearch.js" />
         <option value="$PROJECT_DIR$/tests/test_search.js" />
         <option value="$PROJECT_DIR$/tests/conf.js" />
+        <option value="$PROJECT_DIR$/www_zad4/settings.py" />
+        <option value="$PROJECT_DIR$/election/app/index.html" />
+        <option value="$PROJECT_DIR$/election/api/views.py" />
+        <option value="$PROJECT_DIR$/election/ws/consumer.py" />
+        <option value="$PROJECT_DIR$/election/ws/routing.py" />
+        <option value="$PROJECT_DIR$/election/app/app.js" />
       </list>
     </option>
   </component>
@@ -426,7 +258,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -449,7 +280,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
+              <option name="myItemId" value="www_zad4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -467,8 +298,59 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_zad4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_zad4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="election" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_zad4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_zad4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="election" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_zad4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_zad4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -802,18 +684,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26456693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32283464" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21010248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="manage.py@www_zad4" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3559055" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16398244" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -824,7 +706,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="manage.py@www_zad4" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3559055" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
@@ -840,7 +722,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="django-line">
           <url>file://$PROJECT_DIR$/election/app/index.html</url>
-          <line>343</line>
+          <line>346</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
@@ -854,9 +736,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/components/bower_components/angular-ui-bootstrap/index.js" />
-    <entry file="file://$PROJECT_DIR$/components/bower_components/angular-ui-bootstrap/karma.conf.js" />
-    <entry file="file://$PROJECT_DIR$/components/bower_components/angular-ui-bootstrap/README.md" />
     <entry file="file://$PROJECT_DIR$/components/bower_components/angular-bootstrap/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-602">
@@ -1027,14 +906,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www_zad4/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-82">
-          <caret line="61" column="37" lean-forward="false" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/bb52c312/200670f9-b191-4460-8daa-5b67f3ad9b9b/main.election_voivodeship">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1063,7 +934,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
@@ -1072,27 +942,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/election/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test.js" />
     <entry file="file://$PROJECT_DIR$/tests/test_commune.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="53" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1100,7 +954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1108,6 +961,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="23" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_update.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="85" lean-forward="true" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -1120,22 +987,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/election/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_update.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="85" lean-forward="true" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -1144,51 +995,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/election/api/serializers.py">
+    <entry file="file://$PROJECT_DIR$/tests/conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="140" column="11" lean-forward="false" selection-start-line="140" selection-start-column="11" selection-end-line="140" selection-end-column="11" />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/tools/python35/Lib/site-packages/rest_framework/static/rest_framework/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="4" column="105715" lean-forward="false" selection-start-line="4" selection-start-column="105715" selection-end-line="4" selection-end-column="105715" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www_zad4/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="152" column="30" lean-forward="false" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/election/api/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="61" lean-forward="false" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+        <state relative-caret-position="121">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/election/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/election/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="26" column="75" lean-forward="false" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
+          <folding>
+            <element signature="n#script#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/election/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="53" column="51" lean-forward="false" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/election/api/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="78" column="23" lean-forward="false" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_search.js">
+    <entry file="file://$PROJECT_DIR$/election/ws/routing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="459">
+          <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/election/ws/consumer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/election/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="374" column="43" lean-forward="false" selection-start-line="374" selection-start-column="36" selection-end-line="374" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-40">
+          <caret line="259" column="0" lean-forward="false" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#processAreaData#0" expanded="false" />
+            <element signature="e#2641#4144#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

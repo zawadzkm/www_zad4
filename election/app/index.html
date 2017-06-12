@@ -24,15 +24,18 @@
 
         <script type="text/javascript" src='/static/ad-token-auth/dist/ad-token-auth.min.js'></script>
         <script type="text/javascript" src='/static/angular-jwt/dist/angular-jwt.min.js'></script>
+        <script type="text/javascript" src="/static/angular-websocket/dist/angular-websocket.min.js"></script>
 
         <script type="text/javascript" src='/static/app.js'></script>
     </head>
 <body>
 <div style="margin:10px;">
 
-    <div ng-show="alertType" id="message" class="alert alert-{{alertType}} alert-dismissable">
-      <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-      {{ alertMsg }}
+    <div ng-controller="AlertController">
+        <div ng-show="alertType" id="message" class="alert alert-{{alertType}} alert-dismissable">
+          <a onclick="hide()" class="close">&times;</a>
+          {{ alertMsg }}
+        </div>
     </div>
 
     <div style="display: inline-block; width: 100%;">

@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'election.apps.ElectionConfig',
     'rest_framework',
-    'djangobower'
+    'djangobower',
+    'channels'
 ]
 
 MIDDLEWARE = [
@@ -147,3 +148,9 @@ REST_FRAMEWORK = {
 
 SECRET_KEY = '$qrf$5#;83|c23!C@#v45M&*)c1;!23c[V$%34v56#47Nn878m95m9&34.[09&^N+[\;'
 
+CHANNEL_LAYERS = {
+    "default": {
+        "BACKEND": "asgiref.inmemory.ChannelLayer",
+        "ROUTING": "election.ws.routing.channel_routing",
+    },
+}
