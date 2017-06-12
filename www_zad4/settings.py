@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'election.apps.ElectionConfig',
     'rest_framework',
-    'djangobower',
+    # 'djangobower',
     'channels'
 ]
 
@@ -152,5 +152,15 @@ CHANNEL_LAYERS = {
     "default": {
         "BACKEND": "asgiref.inmemory.ChannelLayer",
         "ROUTING": "election.ws.routing.channel_routing",
-    },
+    }
+
+# CHANNEL_LAYERS = {
+#     "default": {
+#         "BACKEND": "asgi_redis.RedisChannelLayer",
+#         "CONFIG": {
+#             "hosts": [("35.157.79.59", 6379)],
+#         },
+#         "ROUTING": "election.ws.routing.channel_routing",
+#     }
+
 }
