@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'election.apps.ElectionConfig',
     'rest_framework',
-    # 'djangobower',
+    'djangobower',
     'channels'
 ]
 
@@ -162,5 +162,5 @@ CHANNEL_LAYERS = {
 #         },
 #         "ROUTING": "election.ws.routing.channel_routing",
 #     }
-
-}
+#
+# }
