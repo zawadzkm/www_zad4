@@ -153,6 +153,7 @@ CHANNEL_LAYERS = {
         "BACKEND": "asgiref.inmemory.ChannelLayer",
         "ROUTING": "election.ws.routing.channel_routing",
     }
+}
 
 # CHANNEL_LAYERS = {
 #     "default": {
