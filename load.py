@@ -1,5 +1,5 @@
 import os, pandas, django, time, pkg_resources
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "www_zad3.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "www_zad4.settings")
 django.setup()
 
 from election.models import Voivodeship, District, Commune, Circuit, Candidate, Vote, Country

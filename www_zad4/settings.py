@@ -148,20 +148,20 @@ REST_FRAMEWORK = {
 
 SECRET_KEY = '$qrf$5#;83|c23!C@#v45M&*)c1;!23c[V$%34v56#47Nn878m95m9&34.[09&^N+[\;'
 
-CHANNEL_LAYERS = {
-    "default": {
-        "BACKEND": "asgiref.inmemory.ChannelLayer",
-        "ROUTING": "election.ws.routing.channel_routing",
-    }
-}
-
 # CHANNEL_LAYERS = {
 #     "default": {
-#         "BACKEND": "asgi_redis.RedisChannelLayer",
-#         "CONFIG": {
-#             "hosts": [("35.157.79.59", 6379)],
-#         },
+#         "BACKEND": "asgiref.inmemory.ChannelLayer",
 #         "ROUTING": "election.ws.routing.channel_routing",
 #     }
-#
 # }
+
+CHANNEL_LAYERS = {
+    "default": {
+        "BACKEND": "asgi_redis.RedisChannelLayer",
+        "CONFIG": {
+            "hosts": [("127.0.0.1", 6379)],
+        },
+        "ROUTING": "election.ws.routing.channel_routing",
+    }
+
+}

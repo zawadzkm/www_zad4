@@ -10,8 +10,11 @@ class Country(models.Model):
     entitled = models.PositiveIntegerField()
     cards = models.PositiveIntegerField()
     votes = models.PositiveIntegerField()
-    valid = models.PositiveIntegerField()
     invalid = models.PositiveIntegerField()
+
+    @property
+    def valid(self):
+        return self.subareas.aggregate(sum=Sum('subareas__subareas__subareas__vote__number'))['sum']
 
     @property
     def attendance(self):
@@ -29,8 +32,11 @@ class Voivodeship(models.Model):
     entitled = models.PositiveIntegerField()
     cards = models.PositiveIntegerField()
     votes = models.PositiveIntegerField()
-    valid = models.PositiveIntegerField()
     invalid = models.PositiveIntegerField()
+
+    @property
+    def valid(self):
+        return self.subareas.aggregate(sum=Sum('subareas__subareas__vote__number'))['sum']
 
     @property
     def attendance(self):
@@ -51,8 +57,11 @@ class District(models.Model):
     entitled = models.PositiveIntegerField()
     cards = models.PositiveIntegerField()
     votes = models.PositiveIntegerField()
-    valid = models.PositiveIntegerField()
     invalid = models.PositiveIntegerField()
+
+    @property
+    def valid(self):
+        return self.subareas.aggregate(sum=Sum('subareas__vote__number'))['sum']
 
     @property
     def attendance(self):
@@ -72,8 +81,11 @@ class Commune(models.Model):
     entitled = models.PositiveIntegerField()
     cards = models.PositiveIntegerField()
     votes = models.PositiveIntegerField()
-    valid = models.PositiveIntegerField()
     invalid = models.PositiveIntegerField()
+
+    @property
+    def valid(self):
+        return self.subareas.aggregate(sum=Sum('vote__number'))['sum']
 
     @property
     def attendance(self):
@@ -95,6 +107,10 @@ class Circuit(models.Model):
     votes = models.PositiveIntegerField()
     valid = models.PositiveIntegerField()
     invalid = models.PositiveIntegerField()
+
+    @property
+    def valid(self):
+        return self.votes.aggregate(sum=Sum('number'))['sum']
 
     @property
     def attendance(self):
